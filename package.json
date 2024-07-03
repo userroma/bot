@@ -1,0 +1,23 @@
+{
+  "name": "tbot1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/userroma/bot.git"
+  },
+  "description": ""
+}
