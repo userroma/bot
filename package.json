@@ -12,9 +12,11 @@
   "dependencies": {
     "git": "^0.1.5",
     "node-telegram-bot-api": "^0.66.0",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git remote add origin https://github.com/userroma/bot.git"
