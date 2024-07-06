@@ -1,6 +1,6 @@
 const TelegramApi = require('node-telegram-bot-api')
 const readline = require("node:readline");
-const token = '7052389702:AAGSRCPIQswdd2RUOztunx-z3FRm77zScXY';
+const token = '7052389702:AAGSRCPIQswdd2RUOztunx-z3FRm77zScXX';
 const {gameOptions, againOptions} = require('./options')
 const bot = new TelegramApi(token, {polling: true})
 const sequelize = require('./db')
